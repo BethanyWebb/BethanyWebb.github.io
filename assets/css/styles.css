@@ -2,9 +2,9 @@
 body {
   /* Typography */
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-
+background-color: teal;
   /* Visual */
-  background-image: url(https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.realsimple.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Frs_medium_image%2Fpublic%2Fimage%2Fimages%2F1305%2Fflowers-small-vases_300.jpg%3Fitok%3DDUFkbhPY&q=85);
+  /* background-image: url(https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.realsimple.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Frs_medium_image%2Fpublic%2Fimage%2Fimages%2F1305%2Fflowers-small-vases_300.jpg%3Fitok%3DDUFkbhPY&q=85); */
 }
 
 html {
